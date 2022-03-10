@@ -1,18 +1,18 @@
 <?php
 
-$lang['num_word_0']        = 'Zero';
-$lang['num_word_1']        = 'One';
-$lang['num_word_2']        = 'Two';
-$lang['num_word_3']        = 'Three';
-$lang['num_word_4']        = 'Four';
-$lang['num_word_5']        = 'Five';
-$lang['num_word_6']        = 'Six';
-$lang['num_word_7']        = 'Seven';
-$lang['num_word_8']        = 'Eight';
-$lang['num_word_9']        = 'Nine';
-$lang['num_word_10']       = 'Ten';
-$lang['num_word_11']       = 'Eleven';
-$lang['num_word_12']       = 'Twelve';
+$lang['num_word_0']        = 'Nulla';
+$lang['num_word_1']        = 'Egy';
+$lang['num_word_2']        = 'Kettő';
+$lang['num_word_3']        = 'Három';
+$lang['num_word_4']        = 'Négy';
+$lang['num_word_5']        = 'Öt';
+$lang['num_word_6']        = 'Hat';
+$lang['num_word_7']        = 'Hét';
+$lang['num_word_8']        = 'Nyolc';
+$lang['num_word_9']        = 'Kilenc';
+$lang['num_word_10']       = 'Tíz';
+$lang['num_word_11']       = 'Tizenegy';
+$lang['num_word_12']       = 'Tizenkettő';
 $lang['num_word_13']       = 'Thirteen';
 $lang['num_word_14']       = 'Fourteen';
 $lang['num_word_15']       = 'Fifteen';
